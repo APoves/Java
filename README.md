@@ -1,4 +1,4 @@
 # Java
 
 
-Ejercicios prácticos oara comenzar
+Ejercicios prácticos para comenzar
