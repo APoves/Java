@@ -17,4 +17,4 @@ public class JavaIntro {
 	}
 
 }
-	//Introduce pide al usuario su nombre y haz que el programa salude
+	// Pide al usuario su nombre y haz que el programa salude
