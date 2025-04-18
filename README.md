@@ -10,10 +10,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github.com/APoves/Java/blob/main/java.png" alt="Mi Logo" width="500"/>
-  
-</p>
 
 ## Ejercicios prácticos para comenzar con Java
 
@@ -25,5 +21,7 @@ Ejercicio 2: Pedir nombre al usuario y saludar.
 
 Ejercicio 3: Solicitar el precio de un prodcto (sin IVA) y calcular el precio final con IVA, formateándolo a dos decimales.
  
- 
+
+<p align="center">
 <img src="https://github.com/APoves/APoves/blob/main/logo.png" alt="Mi Logo" width="300"/>
+</p>
