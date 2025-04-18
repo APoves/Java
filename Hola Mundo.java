@@ -1,6 +1,5 @@
 package BasicoJava;
 
-
 public class JavaIntro {
 
 	public static void main(String[] args) {
@@ -9,5 +8,5 @@ public class JavaIntro {
 	}
 
 }
-	// Escribe un Hola Mundo y muéstralo.
+// Escribe un Hola Mundo y muéstralo.
 	 
