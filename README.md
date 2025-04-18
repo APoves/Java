@@ -1,8 +1,15 @@
 # Java
-<p align="center">
-  <img src="https://github.com/APoves/Java/blob/main/java.png" alt="Mi Logo" width="500"/>
-  
-</p>
+
+
+
+<picture>
+  <p alifn="center">
+  <source srcset="https://github.com/APoves/Java/blob/main/oscuro.png" media="(prefers-color-scheme: dark)">
+  <source srcset="https://github.com/APoves/Java/blob/main/claro.png" media="(prefers-color-scheme: light)">
+  <img src="ruta/logo-claro.png" alt="Logo" style="width: 300px;">
+</picture>
+
+
 
 
 ## Ejercicios prácticos para comenzar con Java
