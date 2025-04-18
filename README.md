@@ -1,16 +1,19 @@
 # Java
 
 
+<p align="center">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/APoves/Java/main/oscuro.png" media="(prefers-color-scheme: dark)">
+    <source srcset="https://raw.githubusercontent.com/APoves/Java/main/claro.png" media="(prefers-color-scheme: light)">
+    <img src="https://raw.githubusercontent.com/APoves/Java/main/claro.png" alt="Logo" style="width: 300px;">
+  </picture>
+</p>
 
-<picture>
-  <p alifn="center">
-  <source srcset="https://github.com/APoves/Java/blob/main/oscuro.png" media="(prefers-color-scheme: dark)">
-  <source srcset="https://github.com/APoves/Java/blob/main/claro.png" media="(prefers-color-scheme: light)">
-  <img src="ruta/logo-claro.png" alt="Logo" style="width: 300px;">
-</picture>
 
-
-
+<p align="center">
+  <img src="https://github.com/APoves/Java/blob/main/java.png" alt="Mi Logo" width="500"/>
+  
+</p>
 
 ## Ejercicios prácticos para comenzar con Java
 
