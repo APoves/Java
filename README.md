@@ -1,5 +1,7 @@
 # Java
-
+<p align="center">
+  <img src="[https://logospng.org/wp-content/uploads/java.png]" alt="Mi Logo" width="300"/>
+</p>
 
 ## Ejercicios prácticos para comenzar con Java
 
