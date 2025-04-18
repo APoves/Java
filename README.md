@@ -1,6 +1,6 @@
 # Java
 <p align="center">
-  <img src="[https://github.com/APoves/Java/blob/main/java.png]" alt="Mi Logo" width="300"/>
+  <img src=["https://github.com/APoves/Java/blob/main/java.png"] alt="Mi Logo" width="300"/>
 </p>
 
 ## Ejercicios prácticos para comenzar con Java
