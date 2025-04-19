@@ -1,8 +1,8 @@
 # Java
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/APoves/Java/main/claro.png#gh-light-mode-only" alt="Logo modo claro" width="300">
-  <img src="https://raw.githubusercontent.com/APoves/Java/main/oscuro.png#gh-dark-mode-only" alt="Logo modo oscuro" width="300">
+  <img src="https://raw.githubusercontent.com/APoves/Java/main/claro.png#gh-light-mode-only" alt="Logo modo claro" width="250">
+  <img src="https://raw.githubusercontent.com/APoves/Java/main/oscuro.png#gh-dark-mode-only" alt="Logo modo oscuro" width="250">
 </p>
 
 
@@ -22,5 +22,5 @@ Ejercicio 3: Solicitar el precio de un prodcto (sin IVA) y calcular el precio fi
  
 
 <p align="center">
-<img src="https://github.com/APoves/APoves/blob/main/logo.png" alt="Mi Logo" width="200"/>
+<img src="https://github.com/APoves/APoves/blob/main/logo.png" alt="Mi Logo" width="250"/>
 </p>
