@@ -18,7 +18,9 @@ Ejercicio 1: Hola Mundo!
 
 Ejercicio 2: Pedir nombre al usuario y saludar.
 
-Ejercicio 3: Solicitar el precio de un prodcto (sin IVA) y calcular el precio final con IVA, formateándolo a dos decimales.
+Ejercicio 3: Crea una calculadora donde aparezcan los operadores aritméticos + - / * y %. Haz que el usuario introduzca dos valores y realice las operaciones.
+
+Ejercicio 4: Solicitar el precio de un prodcto (sin IVA) y calcular el precio final con IVA, formateándolo a dos decimales.
  
 
 <p align="center">
