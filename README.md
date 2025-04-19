@@ -1,10 +1,10 @@
 
-Ejercicio 3: Solicitar el precio de un prodcto (sin IVA) y calcular el precio final con IVA, formateándolo a dos decimales.
- 
-Ejercicio 4: Crea una calculadora donde aparezcan los operadores aritméticos + - / * y %.
+# Ejercicio 3:
+<br>
+Crea una calculadora donde aparezcan los operadores aritméticos + - / * y %.
 Haz que el usuario introduzca dos valores y realice operaciones con estos operadores.
 <br>
-
+<br>
 
 
 
