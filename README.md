@@ -10,7 +10,6 @@ Pide al usuario un año por teclado e indica si es bisiesto o no.
 Por ejemplo, los años 2000, 2008 y 2020 son años bisiestos.
 <br>
 <br>
-
 (Ojo, con ser divisible, aquí nos referimos a que su división da un resultado distinto a 0).
 <br>
 <br>
