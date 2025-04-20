@@ -13,14 +13,14 @@ Por ejemplo, los años 2000, 2008 y 2020 son años bisiestos.
 (Ojo, con ser divisible, aquí nos referimos a que su división da un resultado distinto a 0).
 <br>
 <br>
-### Aclaración curiosa sobre años bisiestos en el calendario gregoriano (si, el nuestro):
+### ⏳ Aclaración curiosa sobre años bisiestos en el calendario gregoriano (si, el nuestro) ⏳:
 
 **Datos a tener en cuenta:**
 - Duración del año solar real: 365.2422 días (aproximadamente 365 días, 5 horas, 48 minutos y 45 segundos).
 - Año gregoriano normal: 365 días.
 - Objetivo del año bisiesto: Compensar el desfase acumulado de ~0.2422 días por año.
 
-**Reglas para calcular años bisiestos:**
+**Reglas para calcular años bisiestos 🕰️:**
 Un año es bisiesto si es divisible entre 4 (REGLA GENERAL).
 EXCEPCIÓN: si es divisible entre 100, solo es bisiesto si también es divisible entre 400.
 <br>
@@ -39,15 +39,12 @@ EXCEPCIÓN: si es divisible entre 100, solo es bisiesto si también es divisible
 En resumen:
 - Sí es bisiesto → Si es divisible entre 4 (y no termina en 00) → es bisiesto.
 Ejemplos: años 2024 y 2028.
-
 - Si termina en 00 y es divisible entre 400 → es bisiesto.
 Ejemplo: años 2000 y 2400.
-
-3️⃣ No es bisiesto → Si termina en "00" pero no es divisible entre 400 → NO es bisiesto.
+- No es bisiesto → Si termina en "00" pero no es divisible entre 400 → NO es bisiesto.
 Ejemplo: años 1900 y 2100.
 
 
-<br>
 <br>
 <br>
 
