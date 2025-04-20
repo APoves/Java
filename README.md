@@ -8,7 +8,8 @@
 Crea un programa que pida al usuario dos números (enteros) e indica si el primero es divisor del segundo.
 Luego indica si el segundo número es divisor del segundo.
 (Ojo, para que un número sea divisor de otro, el módulo/resto debe dar 0).
- <br>
+<br>
+<br>
 
 <p align="center">
 <img src="https://github.com/APoves/APoves/blob/main/logo.png" alt="Mi Logo" width="120"/>
