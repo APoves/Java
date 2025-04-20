@@ -37,7 +37,7 @@ EXCEPCIÓN: si es divisible entre 100, solo es bisiesto si también es divisible
 
 
 En resumen:
-- Sí es bisiesto → Si es divisible entre 4 (y no termina en 00) → es bisiesto.
+- Si es divisible entre 4 (y no termina en 00) → es bisiesto.
 Ejemplos: años 2024 y 2028.
 - Si termina en 00 y es divisible entre 400 → es bisiesto.
 Ejemplo: años 2000 y 2400.
