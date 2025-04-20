@@ -1,5 +1,4 @@
-# Java
 
 
-
-Ejercicio 1: Hola Mundo!
+### Ejercicio 1:
+Imprime por pantalla un Hola Mundo.
