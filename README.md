@@ -22,6 +22,9 @@ Ejercicio 3: Crea una calculadora donde aparezcan los operadores aritméticos + 
 
 Ejercicio 4: Solicitar el precio de un prodcto (sin IVA) y calcular el precio final con IVA, formateándolo a dos decimales.
 
+Ejercicio 5:
+Pedir al usuario dos números e indicar si el son múltiplos uno de otro.
+
 Ejercicio 6:
 Pide al usuario un año por teclado e indica si es bisiesto o no.
 
