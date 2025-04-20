@@ -7,7 +7,7 @@
 ### Ejercicio 5: 
 Crea un programa que pida al usuario dos números (enteros) e indica si el primero es divisor del segundo.
 Luego indica si el segundo número es divisor del segundo.
-(Ojo, para que un número sea divisor de otro, el módulo/resto debe dar 0).
+(Ojo, con que un número sea divisor de otro, me refiero a que el módulo/resto debe dar 0).
 <br>
 <br>
 <br>
