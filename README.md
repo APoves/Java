@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/APoves/Java/main/claro.png#gh-light-mode-only" alt="Logo modo claro" width="75">
-  <img src="https://raw.githubusercontent.com/APoves/Java/main/oscuro.png#gh-dark-mode-only" alt="Logo modo oscuro" width="75">
+  <img src="https://raw.githubusercontent.com/APoves/Java/main/claro.png#gh-light-mode-only" alt="Logo modo claro" width="100">
+  <img src="https://raw.githubusercontent.com/APoves/Java/main/oscuro.png#gh-dark-mode-only" alt="Logo modo oscuro" width="100">
 </p>
 <br>
 
@@ -11,5 +11,5 @@ Luego indica si el segundo número es divisor del segundo.
  <br>
 
 <p align="center">
-<img src="https://github.com/APoves/APoves/blob/main/logo.png" alt="Mi Logo" width="100"/>
+<img src="https://github.com/APoves/APoves/blob/main/logo.png" alt="Mi Logo" width="120"/>
 </p>
