@@ -1,5 +1,3 @@
-# Java
 
-
-Ejercicio 2: Pedir nombre al usuario y saludar.
-
+### Ejercicio 2:
+Pide por teclado al usuario su nombre. Tras ello, haz que salude.
