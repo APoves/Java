@@ -13,6 +13,7 @@ Por ejemplo, los años 2000, 2008 y 2020 son años bisiestos.
 (Ojo, con ser divisible, aquí nos referimos a que su división da un resultado distinto a 0).
 <br>
 <br>
+<br>
 ### ⏳ Aclaración curiosa sobre años bisiestos en el calendario gregoriano (si, el nuestro) ⏳:
 
 **Datos a tener en cuenta:**
