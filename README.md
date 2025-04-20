@@ -23,7 +23,7 @@ Por ejemplo, los años 2000, 2008 y 2020 son años bisiestos.
 **Reglas para calcular años bisiestos:**
 Un año es bisiesto si es divisible entre 4 (REGLA GENERAL).
 EXCEPCIÓN: si es divisible entre 100, solo es bisiesto si también es divisible entre 400.
-
+<br>
 
 | Año   | ¿Es bisiesto? | ¿Por qué?                                |
 |-------|------------|--------------------------------------------|
