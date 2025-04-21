@@ -14,6 +14,8 @@
 - Repasa y consolida los fundamentos de Java mientras practicas lógica de programación.
 <br>
 <br>
+<br>
+
 | Ejercicio | Descripción | Enlaces |
 |-----------|-------------|---------|
 | **Ejercicio 1 📝** | Hola Mundo. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-01) |
@@ -24,7 +26,7 @@
 | **Ejercicio 6 📝** | Verificar si un año es bisiesto. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-06) |
 | **Ejercicio 7 📝** | Identificar el mayor de 3 números. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-07) |
 
-
+<br>
 <p align="center">
 <img src="https://github.com/APoves/APoves/blob/main/logo.png" alt="Mi Logo" width="250"/>
 </p>
