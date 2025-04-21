@@ -8,25 +8,10 @@
 
 
 
-
-
-## Ejercicios prácticos para comenzar con Java
-
-
-
-Ejercicio 1: Hola Mundo!
-
-Ejercicio 2: Pedir nombre al usuario y saludar.
-
-Ejercicio 3: Crea una calculadora donde aparezcan los operadores aritméticos + - / * y %. Haz que el usuario introduzca dos valores y realice las operaciones.
-
-Ejercicio 4: Solicitar el precio de un prodcto (sin IVA) y calcular el precio final con IVA, formateándolo a dos decimales.
-
-Ejercicio 5: Pedir al usuario dos números e indicar si el son múltiplos uno de otro.
-
-Ejercicio 6: Pedir al usuario un año por teclado e indica si es bisiesto o no.
-
-Ejercicio 7:  Pedir 3 números por teclado e indicar cúal de ellos es el mayor.
+EJERCICIO 
+Pide 3 números por teclado e indica cuál es el mayor (sólo decir cúal de los tres es el mayor).
+Si los tres números son iguales, habría que decir que el número X es el mayor. No sería necesario indicar que los tres son iguales, es suficiente con indicar qué número es el mayor.
+	 
 
 <p align="center">
 <img src="https://github.com/APoves/APoves/blob/main/logo.png" alt="Mi Logo" width="250"/>
