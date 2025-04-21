@@ -7,6 +7,13 @@
 
 
 
+## Repositorio de ejercicios con Java ☕📝.
+- Aprendizaje guiado, con ejercicios en orden progresivo de complejidad y progresión lógica.
+- Ejercicios prácticos desde cero hasta nivel intermedio.
+- Código bien estructurado, con comentarios, explicaciones paso a paso y buenas prácticas.
+- Repasa y consolida los fundamentos de Java mientras practicas lógica de programación.
+
+
 
 
 
