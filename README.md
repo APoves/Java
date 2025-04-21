@@ -1,4 +1,4 @@
-# Ejercicios Java
+## Repositorio de ejercicios con Java ☕.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/APoves/Java/main/claro.png#gh-light-mode-only" alt="Logo modo claro" width="170">
@@ -7,7 +7,7 @@
 
 
 
-## Repositorio de ejercicios con Java ☕.
+
 - Aprendizaje guiado, con ejercicios en orden progresivo de complejidad y progresión lógica.
 - Ejercicios prácticos desde cero hasta nivel intermedio.
 - Código bien estructurado, con comentarios, explicaciones paso a paso y buenas prácticas.
