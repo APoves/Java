@@ -1,9 +1,7 @@
 package BasicoJava;
-
 import java.util.Scanner;
 
 public class JavaIntro {
-
 	public static void main(String[] args) {
 		//Iniciar Scanner.
 		Scanner sn = new Scanner (System.in);
@@ -39,10 +37,9 @@ public class JavaIntro {
 	}
 }
 
-	/* EJERCICIO 1
-	 * Pide 3 números por teclado e indica cuál es el mayor).
-	 * (Sólo decir cúal de los tres es el mayor).
+	/* Pide 3 números por teclado e indica cuál es el mayor (sólo indica cúal de los tres es el mayor).
 	 * Si los tres números son iguales, habría que decir que el número X es el mayor. 
 	 * (No es necesario indicar que los tres son iguales).
-	 */
+  	*/
+
 
