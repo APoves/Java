@@ -1,8 +1,8 @@
-# Java
+# Ejercicios Java
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/APoves/Java/main/claro.png#gh-light-mode-only" alt="Logo modo claro" width="200">
-  <img src="https://raw.githubusercontent.com/APoves/Java/main/oscuro.png#gh-dark-mode-only" alt="Logo modo oscuro" width="200">
+  <img src="https://raw.githubusercontent.com/APoves/Java/main/claro.png#gh-light-mode-only" alt="Logo modo claro" width="170">
+  <img src="https://raw.githubusercontent.com/APoves/Java/main/oscuro.png#gh-dark-mode-only" alt="Logo modo oscuro" width="170">
 </p>
 
 
@@ -12,11 +12,8 @@
 - Ejercicios prácticos desde cero hasta nivel intermedio.
 - Código bien estructurado, con comentarios, explicaciones paso a paso y buenas prácticas.
 - Repasa y consolida los fundamentos de Java mientras practicas lógica de programación.
-
-
-
-
-
+<br>
+<br>
 | Ejercicio | Descripción | Enlaces |
 |-----------|-------------|---------|
 | **Ejercicio 1 📝** | Hola Mundo. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-01) |
