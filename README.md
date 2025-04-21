@@ -25,7 +25,7 @@
 | **Ejercicio 5 📝** | Determinar si dos números son múltiplos. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-05) |
 | **Ejercicio 6 📝** | Verificar si un año es bisiesto. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-06) |
 | **Ejercicio 7 📝** | Identificar el mayor de 3 números. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-07) |
-
+<br>
 <br>
 <p align="center">
 <img src="https://github.com/APoves/APoves/blob/main/logo.png" alt="Mi Logo" width="250"/>
