@@ -12,13 +12,13 @@
 
 | Ejercicio | Descripción | Enlaces |
 |-----------|-------------|---------|
-| **Ejercicio 1** | Hola Mundo! | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-01) |
-| **Ejercicio 2** | Pedir nombre al usuario y saludar | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-02) |
-| **Ejercicio 3** | Calculadora con operadores aritméticos (+ - / * %) | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-03) |
-| **Ejercicio 4** | Calcular precio con IVA (formato 2 decimales) | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-04) |
-| **Ejercicio 5** | Determinar si dos números son múltiplos | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-05) |
-| **Ejercicio 6** | Verificar si un año es bisiesto | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-06) |
-| **Ejercicio 7** | Identificar el mayor de 3 números | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-07) |
+| **Ejercicio 1 📝** | Hola Mundo. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-01) |
+| **Ejercicio 2 📝** | Pedir nombre al usuario y saludar. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-02) |
+| **Ejercicio 3 📝** | Calculadora básica. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-03) |
+| **Ejercicio 4 📝** | Calcular precio con IVA. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-04) |
+| **Ejercicio 5 📝** | Determinar si dos números son múltiplos. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-05) |
+| **Ejercicio 6 📝** | Verificar si un año es bisiesto. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-06) |
+| **Ejercicio 7 📝** | Identificar el mayor de 3 números. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-07) |
 
 
 <p align="center">
