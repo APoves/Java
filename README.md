@@ -13,13 +13,3 @@ Si los tres números son iguales, habría que decir que el número X es el mayor
 <p align="center">
 <img src="https://github.com/APoves/APoves/blob/main/logo.png" alt="Mi Logo" width="120"/>
 </p>
-
-
-
-
-
-	 
-
-<p align="center">
-<img src="https://github.com/APoves/APoves/blob/main/logo.png" alt="Mi Logo" width="250"/>
-</p>
