@@ -1,4 +1,4 @@
-## Repositorio de ejercicios con Java ☕.
+## Repositorio de ejercicios con Java ☕
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/APoves/Java/main/claro.png#gh-light-mode-only" alt="Logo modo claro" width="170">
