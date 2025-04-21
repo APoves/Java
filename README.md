@@ -10,23 +10,15 @@
 
 
 
-## Ejercicios prácticos para comenzar con Java
-
-
-
-Ejercicio 1: Hola Mundo!
-
-Ejercicio 2: Pedir nombre al usuario y saludar.
-
-Ejercicio 3: Crea una calculadora donde aparezcan los operadores aritméticos + - / * y %. Haz que el usuario introduzca dos valores y realice las operaciones.
-
-Ejercicio 4: Solicitar el precio de un prodcto (sin IVA) y calcular el precio final con IVA, formateándolo a dos decimales.
-
-Ejercicio 5: Pedir al usuario dos números e indicar si el son múltiplos uno de otro.
-
-Ejercicio 6: Pedir al usuario un año por teclado e indica si es bisiesto o no.
-
-Ejercicio 7:  Pedir 3 números por teclado e indicar cúal de ellos es el mayor.
+| Ejercicio | Descripción | Enlaces |
+|-----------|-------------|---------|
+| **Ejercicio 1** | Hola Mundo! | [🔗 Ver código](https://github.com/APoves/Java/tree/Ejercicio-01) |
+| **Ejercicio 2** | Pedir nombre al usuario y saludar | [🔗 Ver código](https://github.com/APoves/Java/tree/Ejercicio-02) |
+| **Ejercicio 3** | Calculadora con operadores aritméticos (+ - / * %) | [🔗 Ver código](https://github.com/APoves/Java/tree/Ejercicio-03) |
+| **Ejercicio 4** | Calcular precio con IVA (formato 2 decimales) | [🔗 Ver código](https://github.com/APoves/Java/tree/Ejercicio-04) |
+| **Ejercicio 5** | Determinar si dos números son múltiplos | [🔗 Ver código](https://github.com/APoves/Java/tree/Ejercicio-05) |
+| **Ejercicio 6** | Verificar si un año es bisiesto | [🔗 Ver código](https://github.com/APoves/Java/tree/Ejercicio-06) |
+| **Ejercicio 7** | Identificar el mayor de 3 números | [🔗 Ver código](https://github.com/APoves/Java/tree/Ejercicio-07) |
 
 
 <p align="center">
