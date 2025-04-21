@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/APoves/Java/main/claro.png#gh-light-mode-only" alt="Logo modo claro" width="100">
-  <img src="https://raw.githubusercontent.com/APoves/Java/main/oscuro.png#gh-dark-mode-only" alt="Logo modo oscuro" width="100">
+  <img src="https://raw.githubusercontent.com/APoves/Java/main/claro.png#gh-light-mode-only" alt="Logo modo claro" width="75">
+  <img src="https://raw.githubusercontent.com/APoves/Java/main/oscuro.png#gh-dark-mode-only" alt="Logo modo oscuro" width="75">
 </p>
 
 ### Ejercicio 6:
