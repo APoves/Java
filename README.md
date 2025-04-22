@@ -26,6 +26,7 @@
 | Ejercicio 6 📝 | Verificar si un año es bisiesto. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-06) |
 | Ejercicio 7 📝 | Identificar el mayor de 3 números. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-07) |
 | Ejercicio 8 📝 | Calculadora básica +. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-08) |
+| Ejercicio 9 📝 | Sumar los números hasta introducir -1. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-09) |
 
 
 <br>
