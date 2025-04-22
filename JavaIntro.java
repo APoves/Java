@@ -24,7 +24,7 @@ public class JavaIntro {
 		// Convertir a minúsculas.
 		operation = operation.trim().toLowerCase();
 		
-		//Realizar operación.
+		//Switch para realizar operación (Java 12).
 		//Mostrar error si el 2º número es un 0 en una división.
 		
 		switch (operation) {
