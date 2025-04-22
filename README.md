@@ -7,7 +7,7 @@
 Pide al usuario un año por teclado e indica si es bisiesto o no. 
 
 (Un año es bisiesto cuando es divisible entre 4 y no es divisible por 100 o es divisible por 400.
-Por ejemplo, los años 2000, 2008 y 2020 son años bisiestos.
+Por ejemplo, los años 2000, 2008 y 2020 son años bisiestos).
 <br>
 <br>
 (Ojo, con ser divisible, aquí nos referimos a que su división da un resultado distinto a 0).
