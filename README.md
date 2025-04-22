@@ -4,7 +4,7 @@
 </p>
 
 
-### Ejercicio 8:
+### Ejercicio 9:
 Calculadora +.<br>
 Crea una calculadora básica y pide 2 operandos, un operador (+ - * /) y realiza la operación que corresponda.<br>
 Si el operador es inválido o el 2º operando es un 0 (en caso de división), muestra un mensaje de error.
