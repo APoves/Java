@@ -33,6 +33,7 @@
 <br>
 <br>
 
+📌
 - Este repositorio es una colección de ejercicios prácticos provenientes de diversas fuentes (cursos varios de Disco Duro de Roer, Píldoras Informáticas, TodoCode y Global Mentoring, además de ejercicios de de creación propia), todos ellos unificados para facilitar el aprendizaje, con progresión lógica y avance gradual 📌. <br>
 - La resolución de todos los ejercicios es íntegramente mía. <br>
 - Es posible que haya mejores soluciones y más modernas, pero siempre intento dar solución a estos ejercicios con Java lo más puro posible.
