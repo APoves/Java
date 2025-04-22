@@ -4,10 +4,11 @@ import java.util.Scanner;
 public class JavaIntro {
 
 	public static void main(String[] args) {
+		//Iniciar Scanner.
+		Scanner sn = new Scanner(System.in)
 		
 		//Pedir precio del producto sin IVA
 		System.out.print("Introduce el precio del producto: ");
-		Scanner sn = new Scanner(System.in);
 		int preciosiniva = sn.nextInt();
 		
 		System.out.println("El precio del producto es " + preciosiniva + " sin IVA.");
