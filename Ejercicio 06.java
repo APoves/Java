@@ -29,8 +29,8 @@ public class JavaIntro {
 
 	}
 }
+/* Pide al usuario un año por teclado e indica si es bisiesto o no. 
 
-	/* Muestra la suma de los números hasta que el usuario introduzca un -1.
-	 * Se irán pidiendo números, los cuales se irán sumando.
-	 * Cuando el usuario introduzca un -1, el programa saldrá del bucle while y finalizará.
-	*/
+(Un año es bisiesto cuando es divisible entre 4 y no es divisible por 100 o es divisible por 400.Los años 2000, 2008 y 2020 son años bisiestos).
+Con ser divisible, aquí nos referimos a que su división da un resultado distinto a 0.
+*/
