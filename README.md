@@ -11,7 +11,7 @@
 - Aprendizaje guiado, con ejercicios en orden progresivo de complejidad y progresión lógica.
 - Ejercicios prácticos desde cero hasta nivel intermedio.
 - Código bien estructurado, con comentarios, explicaciones paso a paso y buenas prácticas.
-- Repasa y consolida los fundamentos de Java mientras practicas lógica de programación.
+- Repaso y consolidación de los fundamentos de Java mientras se practica lógica de programación.
 <br>
 <br>
 <br>
@@ -26,6 +26,14 @@
 | Ejercicio 6 📝 | Verificar si un año es bisiesto. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-06) |
 | Ejercicio 7 📝 | Identificar el mayor de 3 números. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-07) |
 | Ejercicio 8 📝 | Calculadora básica +. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-08) |
+
+
+<br>
+<br>
+
+📌 Este repositorio es una colección de ejercicios prácticos provenientes de diversas fuentes (cursos varios de Disco Duro de Roer, Píldoras Informáticas, TodoCode y Global Mentoring, además de ejercicios de de creación propia, todos ellos unificados para facilitar el aprendizaje, con progresión lógica y avance gradual.
+La resolución de todos los ejercicios es íntegramente mía.
+Es posible que haya mejores soluciones y más modernas, pero siempre intento dar solución a estos ejercicios con Java lo más puro posible. 
 
 
 <br>
