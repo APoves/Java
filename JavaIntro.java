@@ -19,12 +19,11 @@ public class JavaIntro {
 			num = sn.nextInt();
 			System.out.println("Has introducido " + num + ("."));
 			if (num !=-1) { //Controlar que los números se sumen, excepto el -1.
-				result+=num; //Esto es similar a num + result
+				result+=num; //Similar a num + result
 				System.out.println("La suma total de todos los números introducidos hasta ahora es " + result + ".");
 				System.out.println();
 				System.out.println("Vuelve a introducir un número: ");
 			}
-
 		}
 		//Mostrar resultado de la suma de los números introducidos.
 		System.out.println("La suma total de todos los número introducidos ha sido " + result + ".");
@@ -33,7 +32,6 @@ public class JavaIntro {
 		
 		//Cerrar Scanner.
 		sn.close();
-
 	}
 }
 
