@@ -14,6 +14,8 @@ Por ejemplo, los años 2000, 2008 y 2020 son años bisiestos.
 <br>
 <br>
 <br>
+<br>
+<br>
 ### ⏳ Aclaración curiosa sobre años bisiestos en el calendario gregoriano (si, el nuestro) ⏳:
 
 **Datos a tener en cuenta:**
