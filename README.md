@@ -4,8 +4,9 @@
 </p>
 
 ### Ejercicio 08:
-Pide 3 números por teclado e indica cuál es el mayor (sólo decir cúal de los tres es el mayor).
-Si los tres números son iguales, habría que decir que el número X es el mayor. No sería necesario indicar que los tres son iguales, es suficiente con indicar qué número es el mayor.
+Pide 3 números por teclado e indica cuál es el mayor (sólo decir cúal de los tres es el mayor) .<br>
+Si los tres números son iguales, habría que decir que el número X es el mayor. <br>
+No sería necesario indicar que los tres son iguales, es suficiente con indicar qué número es el mayor.
 <br>
 <br>
 <br>
