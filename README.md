@@ -5,8 +5,8 @@
 
 
 ### Ejercicio 9:
-Muestra la suma de los números hasta que el usuario introduzca un -1.
-Se irán pidiendo números, los cuales se irán sumando.
+Muestra la suma de los números hasta que el usuario introduzca un -1. <br>
+Se irán pidiendo números, los cuales se irán sumando. <br>
 Cuando el usuario introduzca un -1, el programa saldrá del bucle while y finalizará.
 
 <br>
