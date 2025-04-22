@@ -10,7 +10,12 @@ Crea una calculadora básica y pide 2 operandos, un operador (+ - * /) y realiza
 Si el operador es inválido o el 2º operando es un 0 (en caso de división), muestra un mensaje de error.
 <br>
 <br>
+<br>Comentario al código: el switch está realizado en Java 12 (switch con varios cases separados por comas).
 <br>
+<br>
+<br>
+
+
 
 <p align="center">
 <img src="https://github.com/APoves/APoves/blob/main/logo.png" alt="Mi Logo" width="120"/>
