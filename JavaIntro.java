@@ -47,7 +47,6 @@ public class JavaIntro {
 			default:
 				System.out.println("Operador incorrecto. Por favor, empieza de nuevo.");
 		}
-
 		//Cerrar Scanner
 		sn.close();
 	}
