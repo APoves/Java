@@ -16,4 +16,3 @@ public class JavaIntro {
 	}
 }
 	 // Muestra los números del 1 y al 100 que sean divisibles entre 2 y 3.
-	 
