@@ -26,8 +26,4 @@ public class JavaIntro {
 		sn.close();
 	}
 }
-
-/* EJERCICIO 10: 
- * Pide un número por teclado y valida que sea un número positivo.
- * (DO WHILE).
- */
+// Pide un número por teclado y valida que sea un número positivo.
