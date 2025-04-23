@@ -16,7 +16,8 @@ Por ejemplo, los años 2000, 2008 y 2020 son años bisiestos).
 <br>
 <br>
 <br>
-### ⏳ Aclaración curiosa sobre años bisiestos en el calendario gregoriano (si, el nuestro) ⏳:
+<br>
+### ⏳ Aclaración sobre años bisiestos en el calendario gregoriano (si, el nuestro) ⏳:
 
 **Datos a tener en cuenta:**
 - Duración del año solar real: 365.2422 días (aproximadamente 365 días, 5 horas, 48 minutos y 45 segundos).
