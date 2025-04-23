@@ -3,8 +3,9 @@
   <img src="https://raw.githubusercontent.com/APoves/Java/main/oscuro.png#gh-dark-mode-only" alt="Logo modo oscuro" width="75">
 </p>
 
-### Ejercicio 8:
-Mostrar los números del 1 y al 100 que sean divisibles entre 2 y 3.
+### Ejercicio 10:
+Pide un número por teclado y muestra su tabla de multiplicar hasta 10.
+(Pedir número y recorrer del 1 al 10).
 
 
 <br>
