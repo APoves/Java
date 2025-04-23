@@ -28,7 +28,7 @@
 | Ejercicio 8  📝 | Calculadora básica +. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-08) |
 | Ejercicio 9  📝 | Sumar los números hasta introducir -1. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-09) |
 | Ejercicio 10 📝 | Mostrar números del 1 y al 100 divisibles entre 2 y 3. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio10) |
-| Ejercicio 11 📝 | Mostrar números del 1 y al 100 divisibles entre 2 y 3. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio11) |
+| Ejercicio 11 📝 | Pedir número y mostrar su tabla de multiplicar. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio11) |
 
 <br>
 <br>
