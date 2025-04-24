@@ -5,6 +5,8 @@
 
 
 ### Ejercicio 13:
+Pedir una frase por teclado y contar cuántas vocales tiene.
+
 <br>
 <br>
 <br>
