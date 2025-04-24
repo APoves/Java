@@ -31,7 +31,7 @@ public class JavaIntro {
 		sn.close();
 	}
 }
-// Pide una frase por teclado y cuenta cúantas vocales tiene.
+// Pide una frase por teclado y cuenta cuántas vocales tiene.
 
 
 /* Otra buena opción sería:
