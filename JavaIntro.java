@@ -1,5 +1,4 @@
 package BasicoJava;
-
 import java.util.Scanner;
 
 public class JavaIntro {
@@ -9,8 +8,8 @@ public class JavaIntro {
 		Scanner sn = new Scanner(System.in);
 		
 		//Pedir frase.
-		System.out.println("Introduce una frase para contar su número de vocales:");
-		System.out.println("Ten en cuenta que no se contarán las vocales con tílde.");
+		System.out.println("Introduce una frase para contar su número de vocales");
+		System.out.println(")Ten en cuenta que no se contarán las vocales con tílde.)");
 		System.out.println();
 		//Variable que almacenará la frase (pasará todo a minúscula para evitar errores).
 		String sentence = sn.nextLine().toLowerCase();
@@ -35,7 +34,7 @@ public class JavaIntro {
 // Pide una frase por teclado y cuenta cúantas vocales tiene.
 
 
-/* Podría hacerse con
+/* Otra buena opción sería:
 switch(vocal){
 case 'a', 'e', 'i', 'o', 'u' -> totalVocals++;}
  */
