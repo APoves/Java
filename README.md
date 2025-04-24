@@ -30,8 +30,7 @@
 | Ejercicio 10 📝 | Mostrar números del 1 y al 100 divisibles entre 2 y 3. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-10) |
 | Ejercicio 11 📝 | Pedir número y mostrar su tabla de multiplicar. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-11) |
 | Ejercicio 12 📝 | Pedir número por y validar que sea positivo. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-12) |
-
-| (https://github.com/APoves/Java/tree/Ejercicio-13)
+| Ejercicio 13 📝 | Pedir número por y validar que sea positivo. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-13) |
 <br>
 <br>
 <br>
