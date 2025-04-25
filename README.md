@@ -31,7 +31,7 @@
 | Ejercicio 11 📝 | Pedir número y mostrar su tabla de multiplicar. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-11) |
 | Ejercicio 12 📝 | Pedir número y validar que sea positivo. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-12) |
 | Ejercicio 13 📝 | Pedir frase y contar su número de vocales. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-13) |
-| Ejercicio 14 📝 | Pedir una frase y contar su número de mayúsculas y minúsculas. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-13) |
+| Ejercicio 14 📝 | Pedir una frase y contar su número de mayúsculas y minúsculas. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-14) |
 
 
 <br>
