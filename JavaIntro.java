@@ -40,4 +40,3 @@ public class JavaIntro {
 	}
 }
 //Pide una frase por teclado y cuenta cuántas mayúsculas y minúsculas tiene.
-
