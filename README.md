@@ -32,10 +32,9 @@
 | Ejercicio 12 📝 | Pedir número y validar que sea positivo. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-12) |
 | Ejercicio 13 📝 | Pedir frase y contar su número de vocales. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-13) |
 | Ejercicio 14 📝 | Pedir una frase y contar su número de mayúsculas y minúsculas. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-14) |
-| Ejercicio 15 📝 | Pedir una frase, eliminar los espacios, guárdalos en otra variable y mostrarla. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-14) |
+| Ejercicio 15 📝 | Pedir una frase, eliminar los espacios, guárdalos en otra variable y mostrarla. | [🔗 Enlace](https://github.com/APoves/Java/blob/Ejercicio-15/README.md) |
 
-Pide una frase por teclado, elimina los espacio, guárdalos en otra variable y muéstrala.
-https://github.com/APoves/Java/blob/Ejercicio-15/README.md
+
 <br>
 <br>
 <br>
