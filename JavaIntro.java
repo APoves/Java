@@ -30,4 +30,3 @@ public class JavaIntro {
 	}
 }
 //Pide una frase por teclado, elimina los espacio, guárdalos en otra variable y muéstrala.
-
