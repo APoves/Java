@@ -1,5 +1,4 @@
 package BasicoJava;
-
 import java.util.Scanner;
 
 public class JavaIntro {
