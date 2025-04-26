@@ -5,7 +5,7 @@
 
 
 ### Ejercicio 15:
-Pide una frase por teclado, elimina los espacio, guárdalos en otra variable y muéstrala.
+Pide una frase por teclado, elimina los espacios, guárdalos en otra variable y muéstrala.
 <br>
 <br>
 <br>
