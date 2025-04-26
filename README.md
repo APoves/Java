@@ -4,8 +4,8 @@
 </p>
 
 
-### Ejercicio 1:
-Imprime por pantalla un Hola Mundo.
+### Ejercicio 15:
+Pide una frase por teclado, elimina los espacio, guárdalos en otra variable y muéstrala.
 <br>
 <br>
 <br>
