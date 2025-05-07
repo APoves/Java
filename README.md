@@ -6,7 +6,7 @@
 </p>
 
 
-
+# Practica tu lógica de programación.
 
 - Aprendizaje guiado, con ejercicios en orden progresivo de complejidad y progresión lógica.
 - Ejercicios prácticos desde cero hasta nivel intermedio.
