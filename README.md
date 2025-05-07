@@ -1,4 +1,4 @@
-## Repositorio de ejercicios con Java ☕
+# Repositorio de ejercicios de lógica de programación con Java ☕
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/APoves/Java/main/claro.png#gh-light-mode-only" alt="Logo modo claro" width="170">
@@ -6,7 +6,7 @@
 </p>
 
 
-# Practica tu lógica de programación.
+## Practica tu lógica de programación con Java.
 
 - Aprendizaje guiado, con ejercicios en orden progresivo de complejidad y progresión lógica.
 - Ejercicios prácticos desde cero hasta nivel intermedio.
