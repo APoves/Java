@@ -7,6 +7,7 @@
 
 
 
+
 - Aprendizaje guiado, con ejercicios en orden progresivo de complejidad y progresión lógica.
 - Ejercicios prácticos desde cero hasta nivel intermedio.
 - Código bien estructurado, con comentarios, explicaciones paso a paso y buenas prácticas.
