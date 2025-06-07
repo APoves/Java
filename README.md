@@ -8,7 +8,9 @@
 Adivina el número.
 
 Dado un número aleatorio entre 1 y 100 (incluidos), pide al usuario por teclado que lo adivine dándole pistas (indicándole si es mayor o menor).
+<br>
 El usuario tiene sólo 5 intentos.
+<br>
 Si se acaban los intentos o se acierta el número, el juego se acaba.
 
 <br>
