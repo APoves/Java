@@ -2,7 +2,7 @@ package BasicoJava;
 import java.util.Random; //Importación clase Random.
 import java.util.Scanner; //Importación clase Scanner.
 
-public class Ejercicio17 {
+public class JavaIntro {
 
 	public static void main(String[] args) {
 		//Iniciar Scanner.
