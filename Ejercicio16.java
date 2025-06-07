@@ -1,7 +1,7 @@
 package BasicoJava;
 import java.util.Scanner;
 
-public class Ejercicio16 {
+public class JavaIntro {
 
 	public static void main(String[] args) {
 		//Iniciar Scanner.
