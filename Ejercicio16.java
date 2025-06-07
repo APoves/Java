@@ -2,7 +2,7 @@ package BasicoJava;
 import java.util.Random; //Importación clase Random.
 import java.util.Scanner; //Importación clase Scanner.
 
-public class Ejercicio16 {
+public class Ejercicio17 {
 
 	public static void main(String[] args) {
 		//Iniciar Scanner.
@@ -46,7 +46,7 @@ public class Ejercicio16 {
 	}
 
 }
-/* EJERCICIO 15:
+/* EJERCICIO 17:
 *Dado un número aleatorio entre 1 y 100 (incluidos), pide al usuario por teclado que lo adivine dándole pistas
 *(diciéndole si es mayor o menor).
 *El usuario tiene sólo 5 intentos.
