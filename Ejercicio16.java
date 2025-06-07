@@ -43,7 +43,7 @@ public class Ejercicio16 {
 
 }
 
-	/** Pide una frase e indica si es un palíndromo.
+	/** Pide una frase comprueba si es o no un palíndromo.
 	
 	* (Ejemplos: "oso", "radar", "La ruta nos aportó otro paso natural".) 
 	*
