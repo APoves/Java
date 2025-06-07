@@ -4,8 +4,7 @@
 </p>
 
 
-### Ejercicio 17:
-Adivina el número.
+### Ejercicio 17: Adivina el número.
 
 Dado un número aleatorio entre 1 y 100 (incluidos), pide al usuario por teclado que lo adivine dándole pistas (indicándole si es mayor o menor).
 <br>
