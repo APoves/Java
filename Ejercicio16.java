@@ -51,7 +51,3 @@ public class Ejercicio16 {
 *En vez de "String sentence = sn.nextLine().toLowerCase();" se podría usar " String sentence = sn.nextLine();"
 *pero sería necesaio utilizar "if (noSpace.equalsIgnoreCase(rotateSentence)){" en vez de "if (noSpace.equals(rotateSentence)){".
 */
-
-
-
-// antes llamado ej14 //
