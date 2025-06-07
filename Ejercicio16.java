@@ -42,12 +42,12 @@ public class Ejercicio16 {
 	}
 
 }
-/* EJERCICIO 14:
-* Pide una frase e indica si es un palíndromo.
 
-* (Ejemplos: "oso", "radar", "La ruta nos aportó otro paso natural".) 
-*
-*
-*En vez de "String sentence = sn.nextLine().toLowerCase();" se podría usar " String sentence = sn.nextLine();"
-*pero sería necesaio utilizar "if (noSpace.equalsIgnoreCase(rotateSentence)){" en vez de "if (noSpace.equals(rotateSentence)){".
+	/** Pide una frase e indica si es un palíndromo.
+	
+	* (Ejemplos: "oso", "radar", "La ruta nos aportó otro paso natural".) 
+	*
+	*
+	*En vez de "String sentence = sn.nextLine().toLowerCase();" se podría usar " String sentence = sn.nextLine();"
+	*pero sería necesaio utilizar "if (noSpace.equalsIgnoreCase(rotateSentence)){" en vez de "if (noSpace.equals(rotateSentence))}".
 */
