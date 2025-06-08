@@ -6,9 +6,8 @@
 
 ### Ejercicio 19: Pide un número por teclado y calcula su factorial.
 <br>
-El factorial se obtiene al multiplicar todos los numeros desde X a 1.<br>
-Desde el número 1 hasta el número del que se quiera calcular el factorial).
-<br><br>    
+El factorial se obtiene al multiplicar todos los numeros desde 1 hasta el número en cuestión.<br>
+.<br>    
 Ejemplo de cálculo del factorial de 4:  4*3*2*1 = 24 ).
 <br>
 (Ojo, si el número es negativo, no se puede calcular el factorial, y el factorial del número 0 es 1).
