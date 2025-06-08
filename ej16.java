@@ -2,7 +2,7 @@ package BasicoJava;
 import java.util.Random;
 import java.util.Scanner;
 
-public class ej16 {
+public class JavaIntro {
 
 	public static void main(String[] args) {
         // Iniciar Scanner y Random.
@@ -56,8 +56,7 @@ public class ej16 {
 	}
 
 }
-/* EJERCICIO 16 (intención mía):
-*Dado un número aleatorio entre 1 y 5000, pide al usuarioque lo adivine.
+/*Dado un número aleatorio entre 1 y 5000, pide al usuarioque lo adivine.
 *Para ello, dale pistas indicándole si es mayor o menor al núemero que ha introducido.
 *
 *El usuario tiene máximo 9 intentos.
