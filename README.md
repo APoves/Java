@@ -37,6 +37,7 @@
 | Ejercicio 16 📝 | Pedir una frase y comprueba si es o no un palíndromo. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-16) |
 | Ejercicio 17 📝 | Juego adivina el número entre 1 y 500| [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-17) |
 | Ejercicio 18 📝 | Juego adivina el número entre 1 y 1000, y elige si quieres volver a jugar.| [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-18) |
+| Ejercicio 19 📝 | Calcular el factorial de un número| [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-19) |
 
 <br>
 <br>
