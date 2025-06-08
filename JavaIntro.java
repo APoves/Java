@@ -1,4 +1,3 @@
-//Ejercicio19 en Github.
 package BasicoJava;
 import java.util.Scanner;
 
@@ -14,7 +13,6 @@ public class JavaIntro {
         //Pedir número al usuario
         System.out.println("Introduce un número para calcular su factorial: ");
         int num = sn.nextInt();
-
 
         //Lanzar mensaje si el número introducido es negativo o si es 0.
         if (num == 0) {
@@ -32,7 +30,6 @@ public class JavaIntro {
 
         //Cerrar Scanner.
         sn.close();
-
     }
 }
 
@@ -48,5 +45,4 @@ public class JavaIntro {
     (Ojo, si el número es negativo, no se puede calcular el factorial, y el factorial del número 0 es 1).
     */
 
-
-	//Este es un ejercicio realizado pensando en un entorno ideal, por lo que la idea es calcular el factorial de un número no mayor que 20, ya que produciría un desbordamiento y el resultado sería erróneo.
+    //Este es un ejercicio realizado pensando en un entorno ideal, por lo que la idea es calcular el factorial de un número no mayor que 20, ya que produciría un desbordamiento y el resultado sería erróneo.
