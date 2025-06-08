@@ -47,7 +47,7 @@ public class JavaIntro {
             System.out.print("¿Quieres jugar otra vez? (si/no): ");
             yes = sn.nextLine();
 
-        } while (yes.equalsIgnoreCase("si")); //Repetir todo el ciclo si se quiere volver a jugar
+        } while (yes.equalsIgnoreCase("si")); //Repetir todo el bucle si se quiere volver a jugar
         
         System.out.println("Gracias por jugar :)");
         // Cerrar Scanner.
@@ -56,13 +56,11 @@ public class JavaIntro {
 	}
 
 }
-/*Dado un número aleatorio entre 1 y 5000, pide al usuarioque lo adivine.
+/*Dado un número aleatorio entre 1 y 1000, pide al usuario que lo adivine, con un máximo de 9 intentos.
 *Para ello, dale pistas indicándole si es mayor o menor al núemero que ha introducido.
-*
-*El usuario tiene máximo 9 intentos.
 *
 *Si se acaban los intentos o se acierta el número, el juego se acaba.
 *
-*Al final, se debe pregguntar al usuario si quiere volver a jugar o no.
+*Al final, se debe preguntar al usuario si quiere volver a jugar o no.
 *Si indica que sí, el juego empezará de nuevo.
 */
