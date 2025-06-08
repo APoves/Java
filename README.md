@@ -4,9 +4,8 @@
 </p>
 
 
-### Ejercicio 19: Pide un número por teclado y saca su factorial
+### Ejercicio 19: Pide un número por teclado y calcula su factorial.
 <br>
-Pide un número por teclado y saca su factorial<br>
 El factorial se obtiene al multiplicar todos los numeros desde X a 1.<br>
 Desde el número 1 hasta el número del que se quiera calcular el factorial).
 <br><br>    
