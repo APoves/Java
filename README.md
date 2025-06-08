@@ -35,8 +35,8 @@
 | Ejercicio 14 📝 | Pedir una frase y contar su número de mayúsculas y minúsculas. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-14) |
 | Ejercicio 15 📝 | Pedir una frase, eliminar los espacios, guárdalos en otra variable y mostrarla. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-15) |
 | Ejercicio 16 📝 | Pedir una frase y comprueba si es o no un palíndromo. | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-16) |
-| Ejercicio 17 📝 | Juego adivina el número | [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-17) |
-
+| Ejercicio 17 📝 | Juego adivina el número entre 1 y 500| [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-17) |
+| Ejercicio 18 📝 | Juego adivina el número entre 1 y 1000, y elige si quieres volver a jugar.| [🔗 Enlace](https://github.com/APoves/Java/tree/Ejercicio-18) |
 
 <br>
 <br>
