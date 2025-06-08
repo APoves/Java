@@ -45,8 +45,11 @@
 <br>
 
   > **📝 Nota:**  
-> Este repositorio es una colección de ejercicios prácticos provinientes de diversas fuentes (cursos varios de Disco Duro de Roer, Píldoras Informáticas, TodoCode, Brais Moure o Global Mentoring, además de ejercicios de de creación propia), todos ellos unificados para facilitar el aprendizaje, con progresión lógica y avance gradual..
+> Este repositorio es una colección de ejercicios prácticos provinientes de diversas fuentes (cursos varios de Disco Duro de Roer, Píldoras Informáticas, TodoCode, Brais Moure o Global Mentoring, además de ejercicios de de creación propia), todos ellos unificados para facilitar el aprendizaje, con progresión lógica y avance gradual.
+<br>
 
+
+> **ℹ️ Información:**  
 >La resolución de todos los ejercicios es íntegramente mía.
 > Es muy probable que haya mejores soluciones y más modernas, pero siempre intento dar solución a estos ejercicios con Java lo más puro posible.
 > Toda solución adicional y propuestas, son bienvenidas.
