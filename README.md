@@ -45,7 +45,7 @@
 <br>
 
   > **📝 Nota:**  
-> Este repositorio es una colección de ejercicios prácticos provinientes de diversas fuentes (cursos varios de Disco Duro de Roer, Píldoras Informáticas, TodoCode o Brais Moure), además de ejercicios de de creación propia), todos ellos unificados para facilitar el aprendizaje, con progresión lógica y avance gradual.
+> Este repositorio es una colección de ejercicios prácticos provinientes de diversas fuentes (cursos varios de Disco Duro de Roer, Píldoras Informáticas, TodoCode o Brais Moure, además de ejercicios de de creación propia), todos ellos unificados para facilitar el aprendizaje, con progresión lógica y avance gradual.
 <br>
 <br>
 
