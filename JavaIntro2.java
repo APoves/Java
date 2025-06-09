@@ -1,7 +1,7 @@
 package BasicoJava;
 import java.util.Scanner;
 
-public class JavaIntro2 {
+public class JavaIntro {
 
 	public static void main(String[] args) {
 		//Iniciar Scanner.
@@ -24,6 +24,7 @@ public class JavaIntro2 {
 	public static long factorial (long num) {//Función factorial.
 		
 		long factorial = num;
+		
 		//Cálculo del factorial.
 		for(long i = num -1; i > 1; i--) {
 			factorial *= i;
@@ -33,7 +34,7 @@ public class JavaIntro2 {
 
 }
 
-/*Pide un número por teclado y saca su factorial.
+/*Pide un número al usuario y calcula su factorial a partir de una función.
 
 Este ejercicio se realizará de forma diferente al anterior, ya que tendrá al menos una FUNCIÓN.
 
@@ -43,7 +44,6 @@ Desde el número 1 hasta el número del que se quiera calcular el factorial).
 Ejemplo de calcular el factorial de 4:  4*3*2*1 = 24 ).
 
 (Ojo, si el número es negativo, no se puede calcular el factorial, y el factorial del número 0 es 1).
-
 
 
 Este es un ejercicio realizado pensando en un entorno ideal, por lo que la idea es calcular el factorial 
