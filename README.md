@@ -15,7 +15,7 @@ Este ejercicio se realizará de forma diferente al anterior, ya que tendrá al m
 (El factorial se obtiene al multiplicar todos los numeros desde X a 1. Desde el número 1 hasta el número del que se quiera calcular el factorial).
 <br>
 <br>
-Ejemplo de calcular el factorial de 4:  4*3*2*1 = 24 ).
+Ejemplo de cálculo del factorial de 4:  4*3*2*1 = 24.
 <br>
 (Ojo, si el número es negativo, no se puede calcular el factorial, y el factorial del número 0 es 1).
 <br>
